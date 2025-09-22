@@ -9,6 +9,7 @@
         "dest": "/api/index.php"
     }],
     "env": {
+        "APP_KEY": "base64:VPkA0g5oRj6HcTHau8j0e2RPjEadyNVdGZ07SNm4gLY=",
         "APP_ENV": "production",
         "APP_DEBUG": "true",
         "APP_URL": "https://vu-cloud-computing.vercel.app/",
